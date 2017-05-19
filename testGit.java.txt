@@ -1,0 +1,18 @@
+public class TESTClass {
+
+public stutic void main(Stging[] args){
+
+System.out.println("Hello World!!!");
+
+
+}
+
+
+
+
+
+
+
+
+
+}
